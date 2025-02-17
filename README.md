@@ -3,7 +3,7 @@ Automação básica em Python para abrir excel, bloco notas e word.
 Olá pessoal! Aqui está um pequeno exemplo de automação em Python.
 
 ## Links úteis para estudo
-[sintaxe Pyautogui](https://pyautogui.readthedocs.io/en/latest/)
+#[sintaxe Pyautogui - documentação ](https://pyautogui.readthedocs.io/en/latest/)
 
 import pyautogui as escolha_opcao
 
